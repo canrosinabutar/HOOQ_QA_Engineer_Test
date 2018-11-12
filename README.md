@@ -1,4 +1,4 @@
-# HOOQ_QA_Engineer_Test
+# QA_Engineer_Test
 This is just for Testing Hooq web testing page
 
 ## Preparation:
